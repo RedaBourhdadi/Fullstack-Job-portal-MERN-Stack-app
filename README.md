@@ -1,7 +1,8 @@
 # Fullstack-Job-portal-MERN-Stack-app
 This is a Full stack job App made with MERN Stack, MUI, Datagrid, cookie, etc. 
 
-##Usage
+## Usage
+
 Clone/Download a repo.
 Copy ```bash .env.example  ``` file to```bash  .env  ```& Setup your environment variables
 
