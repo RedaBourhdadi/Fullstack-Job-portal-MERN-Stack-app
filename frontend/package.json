@@ -55,5 +55,5 @@
   "devDependencies": {
     "@redux-devtools/extension": "^3.2.5"
   },
-  "proxy": "http://localhost:8000"
+  "proxy": "https://job-portal-z3ai.onrender.com"
 }
